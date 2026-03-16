@@ -135,7 +135,7 @@ body {
   font-weight: 820;
   text-align: center;
   letter-spacing: -0.02em;
-  color: var(--gold-accent);
+  color: #4a148c;
 }
 
 .page__subtitle {
@@ -232,7 +232,7 @@ body {
   font-size: 14.5px;
   line-height: 1.25;
   display: block;
-  color: var(--gold-accent);
+  color: #4a148c;
 }
 
 .topic-card__desc {
@@ -656,7 +656,7 @@ body {
   font-weight: 750;
   font-size: 15px;
   letter-spacing: 0.02em;
-  color: var(--gold-accent);
+  color: #4a148c;
   margin-bottom: 10px;
 }
 
@@ -720,7 +720,7 @@ body {
 
 .arrow-list li::before {
   content: "\2192";
-  color: var(--gold-accent);
+  color: #4a148c;
   margin-top: 1px;
 }
 
